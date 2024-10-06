@@ -9,7 +9,7 @@ numpy==2.1.2
 pandas==2.2.3
 plotly==5.24.1
 seaborn==0.13.2
-tokenizers==0.20.0
+tokenizers==0.11.3
 torch==2.4.1
 torchaudio==2.4.1
 torchvision==0.19.1
